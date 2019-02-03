@@ -2,5 +2,5 @@ echo "# Jarod-Wylie" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/JarodYli/Jarod-Wylie.git
+git remote add origin https://github.com/JarodYli/Jarod-Wylie.github.io
 git push -u origin master
