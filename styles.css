@@ -1,0 +1,13 @@
+body {
+    background-color: forestgreen;
+    font-family: 'Raleway', sans-serif;
+  }
+  h1, h2 {
+    font-family: 'Oswald', sans-serif;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    display: block;
+  }
