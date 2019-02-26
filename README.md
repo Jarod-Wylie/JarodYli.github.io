@@ -1,4 +1,4 @@
-# Jarod-Wylie
+# Jarod Wylie
 <html>
     <ul>
         <li><a href="https://github.com/JarodYli">Github</a> </li>
